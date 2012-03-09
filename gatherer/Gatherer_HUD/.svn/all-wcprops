@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/gatherer/!svn/ver/926/trunk/Gatherer_HUD
+END
+Version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gatherer/!svn/ver/708/trunk/Gatherer_HUD/Version.txt
+END
+Gatherer_HUD.toc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/gatherer/!svn/ver/926/trunk/Gatherer_HUD/Gatherer_HUD.toc
+END
+Strings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gatherer/!svn/ver/678/trunk/Gatherer_HUD/Strings.lua
+END
+GatherHUD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/813/trunk/Gatherer_HUD/GatherHUD.xml
+END
+GatherHUD.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/899/trunk/Gatherer_HUD/GatherHUD.lua
+END
+HudShape.blp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gatherer/!svn/ver/678/trunk/Gatherer_HUD/HudShape.blp
+END
+Plugin.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gatherer/!svn/ver/820/trunk/Gatherer_HUD/Plugin.lua
+END

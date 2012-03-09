@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/auctioneer/!svn/ver/5175/trunk/Auc-Db
+END
+Auc-Db.toc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/auctioneer/!svn/ver/5045/trunk/Auc-Db/Auc-Db.toc
+END
+DbStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/auctioneer/!svn/ver/4310/trunk/Auc-Db/DbStrings.lua
+END
+DbMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/auctioneer/!svn/ver/4606/trunk/Auc-Db/DbMain.lua
+END
+DbCore.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/auctioneer/!svn/ver/4828/trunk/Auc-Db/DbCore.lua
+END
+gpl-3.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/auctioneer/!svn/ver/4308/trunk/Auc-Db/gpl-3.0.txt
+END

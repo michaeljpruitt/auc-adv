@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gatherer/!svn/ver/887/trunk/GathererDB_Wowhead
+END
+DB_WowheadMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/gatherer/!svn/ver/887/trunk/GathererDB_Wowhead/DB_WowheadMain.lua
+END
+GathererDB_Wowhead.toc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gatherer/!svn/ver/887/trunk/GathererDB_Wowhead/GathererDB_Wowhead.toc
+END
+DB_WowheadData.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/gatherer/!svn/ver/688/trunk/GathererDB_Wowhead/DB_WowheadData.lua
+END

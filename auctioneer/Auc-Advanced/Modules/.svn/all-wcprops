@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/auctioneer/!svn/ver/5234/trunk/Auc-Advanced/Modules
+END
+rebuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/auctioneer/!svn/ver/3029/trunk/Auc-Advanced/Modules/rebuild.pl
+END
+luae.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/auctioneer/!svn/ver/2227/trunk/Auc-Advanced/Modules/luae.exe
+END
+Active.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/auctioneer/!svn/ver/5207/trunk/Auc-Advanced/Modules/Active.xml
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/auctioneer/!svn/ver/2227/trunk/Auc-Advanced/Modules/Readme.txt
+END
+autorun.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/auctioneer/!svn/ver/3029/trunk/Auc-Advanced/Modules/autorun.lua
+END

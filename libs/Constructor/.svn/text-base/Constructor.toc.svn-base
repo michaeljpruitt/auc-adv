@@ -1,0 +1,16 @@
+## Title: Constructor |cff224477(lib)
+## Notes: Easily build frames in Lua using a table-based definition.
+##
+## Interface: 40300
+## LoadOnDemand: 0
+##
+## Version: <%version%> (<%codename%>)
+## Revision: $Id$
+## Author: Norganna's AddOns
+## X-Part-Of: Libraries
+## X-Category: Library
+## X-Max-Interface: 40300
+## X-URL: http://zip.norganna.org/libs/Constructor/
+## X-Feedback: http://forums.norganna.org
+##
+Load.xml

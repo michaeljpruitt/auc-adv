@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/libs/!svn/ver/317/trunk/Stubby
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/libs/!svn/ver/2/trunk/Stubby/GPL.txt
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/libs/!svn/ver/2/trunk/Stubby/includes
+END
+Stubby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/libs/!svn/ver/130/trunk/Stubby/Stubby.xml
+END
+Stubby.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/libs/!svn/ver/275/trunk/Stubby/Stubby.lua
+END
+Stubby.toc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/libs/!svn/ver/317/trunk/Stubby/Stubby.toc
+END

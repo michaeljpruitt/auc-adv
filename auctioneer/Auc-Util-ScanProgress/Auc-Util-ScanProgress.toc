@@ -1,0 +1,16 @@
+## Title: Auc:Util:Scan Progress
+## Notes: Auctioneer utility that displays information about the status of on-going Auction House scans.
+##
+## Interface: 40300
+## Dependancies: Auc-Advanced
+##
+## Version: <%version%> (<%codename%>)
+## Revision: $Id: Auc-Util-ScanProgress.toc 5234 2011-11-24 04:54:19Z Nechckn $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 40300
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+Embed.xml

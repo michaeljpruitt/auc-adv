@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 2
+*
+
+K 13
+svn:mergeinfo
+V 160
+/branches/5.10_WoW4Cataclysm:4856-4901
+/branches/5.7_WotLK_3.2:4342
+/branches/5.8:4585
+/branches/StatPerformance:3798-3809
+/branches/serverKey_Project:4074-4085
+END

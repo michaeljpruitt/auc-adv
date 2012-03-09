@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/gatherer/!svn/ver/928/trunk/Gatherer
+END
+GatherStorage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherStorage.lua
+END
+GatherMapNotes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherMapNotes.xml
+END
+GatherConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherConfig.lua
+END
+GatherNodes.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherNodes.lua
+END
+GatherNotifications.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/gatherer/!svn/ver/907/trunk/Gatherer/GatherNotifications.lua
+END
+GatherUtil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherUtil.lua
+END
+GatherCommand.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherCommand.lua
+END
+GatherConvert.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/905/trunk/Gatherer/GatherConvert.lua
+END
+GatherPlugins.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/891/trunk/Gatherer/GatherPlugins.lua
+END
+Bindings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gatherer/!svn/ver/754/trunk/Gatherer/Bindings.xml
+END
+GatherEvent.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gatherer/!svn/ver/924/trunk/Gatherer/GatherEvent.lua
+END
+GatherConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gatherer/!svn/ver/877/trunk/Gatherer/GatherConfig.xml
+END
+GatherCategories.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherCategories.lua
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gatherer/!svn/ver/653/trunk/Gatherer/gpl.txt
+END
+Version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gatherer/!svn/ver/653/trunk/Gatherer/Version.txt
+END
+GatherNotifications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/gatherer/!svn/ver/754/trunk/Gatherer/GatherNotifications.xml
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gatherer/!svn/ver/874/trunk/Gatherer/includes
+END
+GatherLocale.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gatherer/!svn/ver/754/trunk/Gatherer/GatherLocale.lua
+END
+GatherZoneTokens.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherZoneTokens.lua
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/gatherer/!svn/ver/867/trunk/Gatherer/Readme.txt
+END
+GathererNodeSearch.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gatherer/!svn/ver/927/trunk/Gatherer/GathererNodeSearch.lua
+END
+GatherDropRates.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/gatherer/!svn/ver/798/trunk/Gatherer/GatherDropRates.lua
+END
+GatherMiniNotes.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/gatherer/!svn/ver/901/trunk/Gatherer/GatherMiniNotes.lua
+END
+GatherMiniIcon.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/879/trunk/Gatherer/GatherMiniIcon.lua
+END
+GatherManifest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/754/trunk/Gatherer/GatherManifest.lua
+END
+GatherApi.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/gatherer/!svn/ver/900/trunk/Gatherer/GatherApi.lua
+END
+Gatherer.toc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gatherer/!svn/ver/926/trunk/Gatherer/Gatherer.toc
+END
+GatherIcons.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherIcons.lua
+END
+GatherReport.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gatherer/!svn/ver/904/trunk/Gatherer/GatherReport.lua
+END
+GatherConstants.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/gatherer/!svn/ver/928/trunk/Gatherer/GatherConstants.lua
+END
+GatherMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherMain.lua
+END
+GatherMiniNotes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherMiniNotes.xml
+END
+GatherMapNotes.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherMapNotes.lua
+END
+GatherStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/927/trunk/Gatherer/GatherStrings.lua
+END
+GatherObjects.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/754/trunk/Gatherer/GatherObjects.lua
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/gatherer/!svn/ver/925/trunk/Gatherer/ChangeLog.txt
+END
+GatherTooltip.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherTooltip.lua
+END
+GatherComm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gatherer/!svn/ver/924/trunk/Gatherer/GatherComm.lua
+END
+GatherSpecialCases.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherSpecialCases.lua
+END
+GatherMain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gatherer/!svn/ver/894/trunk/Gatherer/GatherMain.xml
+END

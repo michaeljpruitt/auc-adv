@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/auctioneer/!svn/ver/5257/trunk/Enchantrix-Barker
+END
+BarkerObjects.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/auctioneer/!svn/ver/3581/trunk/Enchantrix-Barker/BarkerObjects.lua
+END
+BarkerStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/auctioneer/!svn/ver/5257/trunk/Enchantrix-Barker/BarkerStrings.lua
+END
+BarkerUtil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/auctioneer/!svn/ver/4937/trunk/Enchantrix-Barker/BarkerUtil.lua
+END
+BarkerLocale.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/auctioneer/!svn/ver/3581/trunk/Enchantrix-Barker/BarkerLocale.lua
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/3767/trunk/Enchantrix-Barker/includes
+END
+BarkerSettings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/auctioneer/!svn/ver/4935/trunk/Enchantrix-Barker/BarkerSettings.lua
+END
+EnchantrixBarker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/auctioneer/!svn/ver/5139/trunk/Enchantrix-Barker/EnchantrixBarker.xml
+END
+EnchantrixBarker.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/auctioneer/!svn/ver/5139/trunk/Enchantrix-Barker/EnchantrixBarker.lua
+END
+enchantrix-barker.toc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/auctioneer/!svn/ver/5234/trunk/Enchantrix-Barker/enchantrix-barker.toc
+END
+BarkerManifest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/auctioneer/!svn/ver/3581/trunk/Enchantrix-Barker/BarkerManifest.lua
+END

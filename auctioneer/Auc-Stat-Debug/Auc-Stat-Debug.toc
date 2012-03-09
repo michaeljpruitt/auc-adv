@@ -1,0 +1,19 @@
+## Title: Auc:Stat:Debug
+## Notes: Statistics extension for Auctioneer, used to aid in debugging and trouble shooting of issues relating to pricing computation/storage.
+##
+## Interface: 40300
+## LoadOnDemand: 0
+## Disabled: 1
+## Dependencies: Auc-Advanced
+## SavedVariables: AucAdvancedStatDebugData
+##
+## Version: <%version%> (<%codename%>)
+## Revision: $Id: Auc-Stat-Debug.toc 5234 2011-11-24 04:54:19Z Nechckn $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 40300
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+StatDebug.lua

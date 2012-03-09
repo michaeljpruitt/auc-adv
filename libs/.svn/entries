@@ -1,0 +1,70 @@
+10
+
+dir
+319
+http://svn.norganna.org/libs/trunk
+http://svn.norganna.org/libs
+
+
+
+2011-11-30T13:31:50.162188Z
+319
+brykrys
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+293af337-a11e-4665-800b-9cb2eb2bfbd7
+
+!nLog
+dir
+
+LibGroupStore
+dir
+
+LibTickTock
+dir
+
+Constructor
+dir
+
+LibDataBroker
+dir
+
+SlideBar
+dir
+
+LibExtraTip
+dir
+
+Stubby
+dir
+
+Plotter
+dir
+
+!Swatter
+dir
+
+Configator
+dir
+
+TipHelper
+dir
+
+DebugLib
+dir
+
+Babylonian
+dir
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/auctioneer/!svn/ver/5261/trunk/Informant
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/auctioneer/!svn/ver/2227/trunk/Informant/GPL.txt
+END
+InfMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/auctioneer/!svn/ver/5261/trunk/Informant/InfMain.lua
+END
+Informant.toc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/auctioneer/!svn/ver/5234/trunk/Informant/Informant.toc
+END
+inficon.blp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/auctioneer/!svn/ver/4048/trunk/Informant/inficon.blp
+END
+InfManifest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/3581/trunk/Informant/InfManifest.lua
+END
+InfStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/5257/trunk/Informant/InfStrings.lua
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/auctioneer/!svn/ver/4756/trunk/Informant/includes
+END
+InfTooltip.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/5010/trunk/Informant/InfTooltip.lua
+END
+InfCommand.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/4047/trunk/Informant/InfCommand.lua
+END
+Bindings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/auctioneer/!svn/ver/3576/trunk/Informant/Bindings.xml
+END
+InfLocale.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/auctioneer/!svn/ver/4021/trunk/Informant/InfLocale.lua
+END
+Informant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/auctioneer/!svn/ver/4857/trunk/Informant/Informant.xml
+END
+InfSettings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5202/trunk/Informant/InfSettings.lua
+END

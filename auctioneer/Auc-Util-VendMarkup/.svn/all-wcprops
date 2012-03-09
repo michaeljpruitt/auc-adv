@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/auctioneer/!svn/ver/5234/trunk/Auc-Util-VendMarkup
+END
+Auc-Util-VendMarkup.toc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/auctioneer/!svn/ver/5234/trunk/Auc-Util-VendMarkup/Auc-Util-VendMarkup.toc
+END
+Embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/auctioneer/!svn/ver/2530/trunk/Auc-Util-VendMarkup/Embed.xml
+END
+vendMarkup.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/auctioneer/!svn/ver/4828/trunk/Auc-Util-VendMarkup/vendMarkup.lua
+END

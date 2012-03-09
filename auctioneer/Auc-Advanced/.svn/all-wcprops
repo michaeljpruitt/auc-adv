@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/auctioneer/!svn/ver/5277/trunk/Auc-Advanced
+END
+CoreConst.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/5117/trunk/Auc-Advanced/CoreConst.lua
+END
+Auc-Advanced.toc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/auctioneer/!svn/ver/5234/trunk/Auc-Advanced/Auc-Advanced.toc
+END
+CoreManifest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/auctioneer/!svn/ver/5174/trunk/Auc-Advanced/CoreManifest.lua
+END
+CoreStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/auctioneer/!svn/ver/5257/trunk/Auc-Advanced/CoreStrings.lua
+END
+CoreAPI.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/5231/trunk/Auc-Advanced/CoreAPI.lua
+END
+CoreUtil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5277/trunk/Auc-Advanced/CoreUtil.lua
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/auctioneer/!svn/ver/4756/trunk/Auc-Advanced/includes
+END
+CoreBuy.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/5236/trunk/Auc-Advanced/CoreBuy.lua
+END
+CoreSettings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/auctioneer/!svn/ver/5253/trunk/Auc-Advanced/CoreSettings.lua
+END
+CoreMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5277/trunk/Auc-Advanced/CoreMain.lua
+END
+CoreScan.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5274/trunk/Auc-Advanced/CoreScan.lua
+END
+CoreConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/5213/trunk/Auc-Advanced/CoreConfig.lua
+END
+CoreModule.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/5206/trunk/Auc-Advanced/CoreModule.lua
+END
+CorePost.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5270/trunk/Auc-Advanced/CorePost.lua
+END

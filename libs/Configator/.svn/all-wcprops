@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/libs/!svn/ver/317/trunk/Configator
+END
+Configator.toc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/libs/!svn/ver/317/trunk/Configator/Configator.toc
+END
+PanelScroller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/libs/!svn/ver/282/trunk/Configator/PanelScroller.xml
+END
+PanelScroller.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/libs/!svn/ver/312/trunk/Configator/PanelScroller.lua
+END
+ScrollSheet.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/libs/!svn/ver/312/trunk/Configator/ScrollSheet.lua
+END
+SelectBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/libs/!svn/ver/130/trunk/Configator/SelectBox.xml
+END
+SelectBox.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/libs/!svn/ver/312/trunk/Configator/SelectBox.lua
+END
+Configator.lua
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/libs/!svn/ver/312/trunk/Configator/Configator.lua
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/libs/!svn/ver/2/trunk/Configator/lgpl.txt
+END
+Load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/libs/!svn/ver/130/trunk/Configator/Load.xml
+END

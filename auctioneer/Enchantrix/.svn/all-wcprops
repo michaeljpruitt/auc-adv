@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/auctioneer/!svn/ver/5278/trunk/Enchantrix
+END
+EnxMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/auctioneer/!svn/ver/5136/trunk/Enchantrix/EnxMain.lua
+END
+EnxObjects.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/3576/trunk/Enchantrix/EnxObjects.lua
+END
+EnxStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5257/trunk/Enchantrix/EnxStrings.lua
+END
+EnxTooltip.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5188/trunk/Enchantrix/EnxTooltip.lua
+END
+Enchantrix.toc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5234/trunk/Enchantrix/Enchantrix.toc
+END
+EnxConstantsInscription.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/auctioneer/!svn/ver/5070/trunk/Enchantrix/EnxConstantsInscription.lua
+END
+EnxLocale.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/3576/trunk/Enchantrix/EnxLocale.lua
+END
+EnxSettings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/5007/trunk/Enchantrix/EnxSettings.lua
+END
+EnxStorage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5264/trunk/Enchantrix/EnxStorage.lua
+END
+EnxMiniIcon.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/5000/trunk/Enchantrix/EnxMiniIcon.lua
+END
+EnxConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/auctioneer/!svn/ver/3576/trunk/Enchantrix/EnxConfig.lua
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/auctioneer/!svn/ver/2227/trunk/Enchantrix/GPL.txt
+END
+EnxManifest.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/3581/trunk/Enchantrix/EnxManifest.lua
+END
+EnxAucUtil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5278/trunk/Enchantrix/EnxAucUtil.lua
+END
+EnxAutoDisenchant.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/auctioneer/!svn/ver/5137/trunk/Enchantrix/EnxAutoDisenchant.lua
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/auctioneer/!svn/ver/4756/trunk/Enchantrix/includes
+END
+EnxConstants.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/5070/trunk/Enchantrix/EnxConstants.lua
+END
+EnxUtil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/auctioneer/!svn/ver/5138/trunk/Enchantrix/EnxUtil.lua
+END
+EnxCommand.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/auctioneer/!svn/ver/5071/trunk/Enchantrix/EnxCommand.lua
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/auctioneer/!svn/ver/2227/trunk/Enchantrix/README.txt
+END
+EnxConstantsJewelcrafting.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/auctioneer/!svn/ver/5070/trunk/Enchantrix/EnxConstantsJewelcrafting.lua
+END

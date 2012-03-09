@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/libs/!svn/ver/317/trunk/Constructor
+END
+LibStub.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/libs/!svn/ver/46/trunk/Constructor/LibStub.lua
+END
+Constructor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/libs/!svn/ver/129/trunk/Constructor/Constructor.lua
+END
+Constructor.toc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/libs/!svn/ver/317/trunk/Constructor/Constructor.toc
+END
+LGPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/libs/!svn/ver/46/trunk/Constructor/LGPL.txt
+END
+Load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/libs/!svn/ver/72/trunk/Constructor/Load.xml
+END

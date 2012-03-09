@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gatherer/!svn/ver/913/trunk/Gatherer/Astrolabe
+END
+AstrolabeMapMonitor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/gatherer/!svn/ver/754/trunk/Gatherer/Astrolabe/AstrolabeMapMonitor.lua
+END
+DongleStub.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gatherer/!svn/ver/754/trunk/Gatherer/Astrolabe/DongleStub.lua
+END
+Astrolabe.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/gatherer/!svn/ver/913/trunk/Gatherer/Astrolabe/Astrolabe.lua
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/653/trunk/Gatherer/Astrolabe/lgpl.txt
+END
+Load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gatherer/!svn/ver/653/trunk/Gatherer/Astrolabe/Load.xml
+END

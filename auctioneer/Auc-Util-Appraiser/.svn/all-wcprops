@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/auctioneer/!svn/ver/5239/trunk/Auc-Util-Appraiser
+END
+AprSettings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/auctioneer/!svn/ver/5186/trunk/Auc-Util-Appraiser/AprSettings.lua
+END
+Appraiser.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/auctioneer/!svn/ver/5237/trunk/Auc-Util-Appraiser/Appraiser.lua
+END
+Auc-Util-Appraiser.toc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/auctioneer/!svn/ver/5234/trunk/Auc-Util-Appraiser/Auc-Util-Appraiser.toc
+END
+Embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/auctioneer/!svn/ver/2530/trunk/Auc-Util-Appraiser/Embed.xml
+END
+AprFrame.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/auctioneer/!svn/ver/5239/trunk/Auc-Util-Appraiser/AprFrame.lua
+END

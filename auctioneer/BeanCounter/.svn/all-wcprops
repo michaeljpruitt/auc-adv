@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/auctioneer/!svn/ver/5279/trunk/BeanCounter
+END
+BeanCounterAPI.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/auctioneer/!svn/ver/5127/trunk/BeanCounter/BeanCounterAPI.lua
+END
+BeanCounterFrames.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/5240/trunk/BeanCounter/BeanCounterFrames.lua
+END
+BeanCounterTidyUp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/5266/trunk/BeanCounter/BeanCounterTidyUp.lua
+END
+BeanCounter.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/5266/trunk/BeanCounter/BeanCounter.lua
+END
+BidMonitor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/auctioneer/!svn/ver/5235/trunk/BeanCounter/BidMonitor.lua
+END
+BeanCounterUpdate.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/5266/trunk/BeanCounter/BeanCounterUpdate.lua
+END
+BeanCounterMail.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/auctioneer/!svn/ver/5263/trunk/BeanCounter/BeanCounterMail.lua
+END
+BeanCounter.toc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/5234/trunk/BeanCounter/BeanCounter.toc
+END
+BeanCounterStrings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/auctioneer/!svn/ver/5257/trunk/BeanCounter/BeanCounterStrings.lua
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/auctioneer/!svn/ver/2283/trunk/BeanCounter/GPL.txt
+END
+BeancounterVendor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/3583/trunk/BeanCounter/BeancounterVendor.lua
+END
+BeanCounterLocale.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/3583/trunk/BeanCounter/BeanCounterLocale.lua
+END
+includes
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/auctioneer/!svn/ver/4756/trunk/BeanCounter/includes
+END
+BeanCounterSearch.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/5204/trunk/BeanCounter/BeanCounterSearch.lua
+END
+MatchBeanCount.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/auctioneer/!svn/ver/5279/trunk/BeanCounter/MatchBeanCount.lua
+END
+Embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/auctioneer/!svn/ver/5179/trunk/BeanCounter/Embed.xml
+END
+BeanCounterConfig.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/auctioneer/!svn/ver/5267/trunk/BeanCounter/BeanCounterConfig.lua
+END
+PostMonitor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/auctioneer/!svn/ver/4811/trunk/BeanCounter/PostMonitor.lua
+END

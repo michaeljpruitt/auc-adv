@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/libs/!svn/ver/307/trunk/LibExtraTip/Support
+END
+LibStub.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/libs/!svn/ver/307/trunk/LibExtraTip/Support/LibStub.lua
+END
+LibRevision.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/libs/!svn/ver/307/trunk/LibExtraTip/Support/LibRevision.lua
+END
+Load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/libs/!svn/ver/307/trunk/LibExtraTip/Support/Load.xml
+END

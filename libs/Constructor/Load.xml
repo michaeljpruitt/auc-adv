@@ -1,0 +1,6 @@
+<!-- This file describes which scripts and xml files are to be loaded.  -->
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+	<Script file="LibStub.lua"/>
+	<Script file="Constructor.lua"/>
+	<!--<Script file="Test\FrameTemplate.lua"/>--> <!--Uncomment this line to see the sample frame in action!-->
+</Ui>
